@@ -1,4 +1,4 @@
-set_db / .library {../PVT_1_80V_range/D_CELLS_HD_LPMOS_typ_1_80V_25C.lib}
+set_db / .library {PDK_path} 
 
 read_hdl -sv {../RTL/add16se_3BD.v ../RTL/FIR.sv}
 

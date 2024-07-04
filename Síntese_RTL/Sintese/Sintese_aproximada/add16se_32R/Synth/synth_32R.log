@@ -33,7 +33,7 @@ WARNING: This version of the tool is 246 days old.
 @genus:root: 1> source run1.tcl
 Sourcing './run1.tcl' (Tue Jun 25 00:54:31 -03 2024)...
 #@ Begin verbose source ./run1.tcl
-@file(run1.tcl) 1: set_db / .library {../PVT_1_80V_range/D_CELLS_HD_LPMOS_typ_1_80V_25C.lib}
+@file(run1.tcl) 1: set_db / .library {PDK_path}
 
   Message Summary for Library D_CELLS_HD_LPMOS_typ_1_80V_25C.lib:
   ***************************************************************
